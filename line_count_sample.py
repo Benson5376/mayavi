@@ -1,2 +1,2 @@
 def contour_limit():
-    return 70.0
+    return 80.0
